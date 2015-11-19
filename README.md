@@ -3,18 +3,18 @@
 ## Blazer Uniform
 - [ ] Black blazer, with patch
 - [ ] Heather grey dress pants
-- [ ] White dress shirt
 - [ ] Black shoes (can be your band shoes)
 - [ ] Black socks
 - [ ] Red blazer tie
 - [ ] Black belt (can be same one as full uniform)
+- [ ] White/Gray undershirt
 
 ## Full Uniform
 - [ ] Jacket
 - [ ] Pants
 - [ ] White Dress Shirt
 - [ ] Crossbelts
-- [ ] Brass (waistbrass pieces and breatplate)
+- [ ] Brass (waistbrass pieces and breastplate)
 - [ ] Black tie
 - [ ] Black socks
 - [ ] Black band shoes
@@ -36,9 +36,10 @@
 ## Etc.
 - [ ] Rain coat (when necessary)
 - [ ] Overcoat (when necessary)
-- [ ] Hat raingear (hat cover, plastic bag for plume)
+- [ ] Hat rain gear (hat cover, plastic bag for plume)
 - [ ] Eagle Ohio for hat
 - [ ] Pennant
 - [ ] Drum straps
 - [ ] Band hair supplies
 - [ ] Garment bag
+- [ ] White dress shirt
